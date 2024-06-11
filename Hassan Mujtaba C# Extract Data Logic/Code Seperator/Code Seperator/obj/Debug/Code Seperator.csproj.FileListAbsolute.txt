@@ -1,0 +1,30 @@
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe.config
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\bin\Debug\Code Seperator.pdb
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csprojAssemblyReference.cache
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.exe
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.pdb
+C:\Users\asp\Downloads\Open-Source-Projects-main\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe.config
+C:\Users\asp\Downloads\Open-Source-Projects-main\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe
+C:\Users\asp\Downloads\Open-Source-Projects-main\Code Seperator\Code Seperator\bin\Debug\Code Seperator.pdb
+C:\Users\asp\Downloads\Open-Source-Projects-main\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.AssemblyReference.cache
+C:\Users\asp\Downloads\Open-Source-Projects-main\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.CoreCompileInputs.cache
+C:\Users\asp\Downloads\Open-Source-Projects-main\Code Seperator\Code Seperator\obj\Debug\Code Seperator.exe
+C:\Users\asp\Downloads\Open-Source-Projects-main\Code Seperator\Code Seperator\obj\Debug\Code Seperator.pdb
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe.config
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\bin\Debug\Code Seperator.pdb
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.AssemblyReference.cache
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.exe
+C:\Users\furqan\Downloads\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.pdb
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe.config
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\bin\Debug\Code Seperator.pdb
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.AssemblyReference.cache
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.SuggestedBindingRedirects.cache
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.CoreCompileInputs.cache
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.exe
+E:\C#\Hassan Mujtaba C# Extract Data Logic\Code Seperator\Code Seperator\obj\Debug\Code Seperator.pdb

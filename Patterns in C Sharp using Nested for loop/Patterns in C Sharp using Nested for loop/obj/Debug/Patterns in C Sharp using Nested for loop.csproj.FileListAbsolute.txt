@@ -1,0 +1,8 @@
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\bin\Debug\Patterns in C Sharp using Nested for loop.exe.config
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\bin\Debug\Patterns in C Sharp using Nested for loop.exe
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\bin\Debug\Patterns in C Sharp using Nested for loop.pdb
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\obj\Debug\Patterns in C Sharp using Nested for loop.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\obj\Debug\Patterns in C Sharp using Nested for loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\obj\Debug\Patterns in C Sharp using Nested for loop.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\obj\Debug\Patterns in C Sharp using Nested for loop.exe
+C:\Users\furqan\source\repos\Patterns in C Sharp using Nested for loop\Patterns in C Sharp using Nested for loop\obj\Debug\Patterns in C Sharp using Nested for loop.pdb

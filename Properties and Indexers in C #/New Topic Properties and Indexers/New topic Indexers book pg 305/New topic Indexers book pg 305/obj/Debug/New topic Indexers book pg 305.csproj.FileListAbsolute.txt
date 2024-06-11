@@ -1,0 +1,7 @@
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New topic Indexers book pg 305\New topic Indexers book pg 305\bin\Debug\New topic Indexers book pg 305.exe.config
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New topic Indexers book pg 305\New topic Indexers book pg 305\bin\Debug\New topic Indexers book pg 305.exe
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New topic Indexers book pg 305\New topic Indexers book pg 305\bin\Debug\New topic Indexers book pg 305.pdb
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New topic Indexers book pg 305\New topic Indexers book pg 305\obj\Debug\New topic Indexers book pg 305.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New topic Indexers book pg 305\New topic Indexers book pg 305\obj\Debug\New topic Indexers book pg 305.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New topic Indexers book pg 305\New topic Indexers book pg 305\obj\Debug\New topic Indexers book pg 305.exe
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New topic Indexers book pg 305\New topic Indexers book pg 305\obj\Debug\New topic Indexers book pg 305.pdb

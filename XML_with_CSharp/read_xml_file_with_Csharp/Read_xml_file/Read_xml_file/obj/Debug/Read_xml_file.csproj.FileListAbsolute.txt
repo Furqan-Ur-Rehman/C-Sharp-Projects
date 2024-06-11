@@ -1,0 +1,8 @@
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\bin\Debug\Read_xml_file.exe.config
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\bin\Debug\Read_xml_file.exe
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\bin\Debug\Read_xml_file.pdb
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\obj\Debug\Read_xml_file.csproj.AssemblyReference.cache
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\obj\Debug\Read_xml_file.csproj.SuggestedBindingRedirects.cache
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\obj\Debug\Read_xml_file.csproj.CoreCompileInputs.cache
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\obj\Debug\Read_xml_file.exe
+E:\C#\XML_with_CSharp\read_xml_file_with_Csharp\Read_xml_file\Read_xml_file\obj\Debug\Read_xml_file.pdb

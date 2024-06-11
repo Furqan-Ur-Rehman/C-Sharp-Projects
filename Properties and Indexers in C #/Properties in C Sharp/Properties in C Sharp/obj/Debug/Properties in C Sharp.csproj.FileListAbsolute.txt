@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\bin\Debug\Properties in C Sharp.exe.config
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\bin\Debug\Properties in C Sharp.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\bin\Debug\Properties in C Sharp.pdb
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\obj\Debug\Properties in C Sharp.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\obj\Debug\Properties in C Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\obj\Debug\Properties in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\obj\Debug\Properties in C Sharp.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Properties in C Sharp\Properties in C Sharp\obj\Debug\Properties in C Sharp.pdb

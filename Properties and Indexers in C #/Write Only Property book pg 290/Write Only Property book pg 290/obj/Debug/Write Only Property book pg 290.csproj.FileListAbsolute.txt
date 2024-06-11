@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\bin\Debug\Write Only Property book pg 290.exe.config
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\bin\Debug\Write Only Property book pg 290.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\bin\Debug\Write Only Property book pg 290.pdb
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\obj\Debug\Write Only Property book pg 290.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\obj\Debug\Write Only Property book pg 290.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\obj\Debug\Write Only Property book pg 290.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\obj\Debug\Write Only Property book pg 290.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Write Only Property book pg 290\Write Only Property book pg 290\obj\Debug\Write Only Property book pg 290.pdb

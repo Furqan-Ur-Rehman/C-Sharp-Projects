@@ -1,0 +1,7 @@
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New Topic Properties in C Sharp\New Topic Properties in C Sharp\bin\Debug\New Topic Properties in C Sharp.exe.config
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New Topic Properties in C Sharp\New Topic Properties in C Sharp\bin\Debug\New Topic Properties in C Sharp.exe
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New Topic Properties in C Sharp\New Topic Properties in C Sharp\bin\Debug\New Topic Properties in C Sharp.pdb
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New Topic Properties in C Sharp\New Topic Properties in C Sharp\obj\Debug\New Topic Properties in C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New Topic Properties in C Sharp\New Topic Properties in C Sharp\obj\Debug\New Topic Properties in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New Topic Properties in C Sharp\New Topic Properties in C Sharp\obj\Debug\New Topic Properties in C Sharp.exe
+C:\Users\asp\Desktop\New Topic Properties and Indexers\New Topic Properties in C Sharp\New Topic Properties in C Sharp\obj\Debug\New Topic Properties in C Sharp.pdb

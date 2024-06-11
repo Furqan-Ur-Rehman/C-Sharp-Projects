@@ -1,0 +1,8 @@
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\bin\Debug\Arithmetic operator.exe.config
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\bin\Debug\Arithmetic operator.exe
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\bin\Debug\Arithmetic operator.pdb
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\obj\Debug\Arithmetic operator.csproj.AssemblyReference.cache
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\obj\Debug\Arithmetic operator.csproj.SuggestedBindingRedirects.cache
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\obj\Debug\Arithmetic operator.csproj.CoreCompileInputs.cache
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\obj\Debug\Arithmetic operator.exe
+E:\C#\Arithmetic Operators in C#\Arithmetic operator\Arithmetic operator\obj\Debug\Arithmetic operator.pdb

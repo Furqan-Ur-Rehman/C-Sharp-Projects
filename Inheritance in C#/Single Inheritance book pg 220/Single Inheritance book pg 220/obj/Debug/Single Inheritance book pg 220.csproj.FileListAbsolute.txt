@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\bin\Debug\Single Inheritance book pg 220.exe.config
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\bin\Debug\Single Inheritance book pg 220.exe
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\bin\Debug\Single Inheritance book pg 220.pdb
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\obj\Debug\Single Inheritance book pg 220.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\obj\Debug\Single Inheritance book pg 220.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\obj\Debug\Single Inheritance book pg 220.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\obj\Debug\Single Inheritance book pg 220.exe
+C:\Users\furqan\Desktop\Inheritance in C#\Single Inheritance book pg 220\Single Inheritance book pg 220\obj\Debug\Single Inheritance book pg 220.pdb

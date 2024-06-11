@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\bin\Debug\Hirarical Inheritance.exe.config
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\bin\Debug\Hirarical Inheritance.exe
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\bin\Debug\Hirarical Inheritance.pdb
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\obj\Debug\Hirarical Inheritance.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\obj\Debug\Hirarical Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\obj\Debug\Hirarical Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\obj\Debug\Hirarical Inheritance.exe
+C:\Users\furqan\Desktop\Arrays in C Sharp\Hirarical Inheritance\Hirarical Inheritance\obj\Debug\Hirarical Inheritance.pdb

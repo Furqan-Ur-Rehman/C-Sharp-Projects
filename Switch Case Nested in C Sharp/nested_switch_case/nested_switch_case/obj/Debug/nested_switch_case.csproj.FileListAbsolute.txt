@@ -1,0 +1,8 @@
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\bin\Debug\nested_switch_case.exe.config
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\bin\Debug\nested_switch_case.exe
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\bin\Debug\nested_switch_case.pdb
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\obj\Debug\nested_switch_case.csproj.AssemblyReference.cache
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\obj\Debug\nested_switch_case.csproj.SuggestedBindingRedirects.cache
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\obj\Debug\nested_switch_case.csproj.CoreCompileInputs.cache
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\obj\Debug\nested_switch_case.exe
+E:\C#\Switch Case Nested in C Sharp\nested_switch_case\nested_switch_case\obj\Debug\nested_switch_case.pdb

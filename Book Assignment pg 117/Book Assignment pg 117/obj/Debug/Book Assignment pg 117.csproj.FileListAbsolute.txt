@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\bin\Debug\Book Assignment pg 117.exe.config
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\bin\Debug\Book Assignment pg 117.exe
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\bin\Debug\Book Assignment pg 117.pdb
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\obj\Debug\Book Assignment pg 117.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\obj\Debug\Book Assignment pg 117.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\obj\Debug\Book Assignment pg 117.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\obj\Debug\Book Assignment pg 117.exe
+C:\Users\furqan\Desktop\C#\Book Assignment pg 117\Book Assignment pg 117\obj\Debug\Book Assignment pg 117.pdb

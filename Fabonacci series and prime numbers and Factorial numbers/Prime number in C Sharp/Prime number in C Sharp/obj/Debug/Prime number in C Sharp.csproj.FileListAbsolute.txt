@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\bin\Debug\Prime number in C Sharp.exe.config
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\bin\Debug\Prime number in C Sharp.exe
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\bin\Debug\Prime number in C Sharp.pdb
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\obj\Debug\Prime number in C Sharp.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\obj\Debug\Prime number in C Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\obj\Debug\Prime number in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\obj\Debug\Prime number in C Sharp.exe
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Prime number in C Sharp\Prime number in C Sharp\obj\Debug\Prime number in C Sharp.pdb

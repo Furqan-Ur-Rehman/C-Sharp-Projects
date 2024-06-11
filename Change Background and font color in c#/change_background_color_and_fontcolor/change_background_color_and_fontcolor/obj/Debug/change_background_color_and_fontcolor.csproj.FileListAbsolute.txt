@@ -1,0 +1,8 @@
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\bin\Debug\change_background_color_and_fontcolor.exe.config
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\bin\Debug\change_background_color_and_fontcolor.exe
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\bin\Debug\change_background_color_and_fontcolor.pdb
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\obj\Debug\change_background_color_and_fontcolor.csproj.AssemblyReference.cache
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\obj\Debug\change_background_color_and_fontcolor.csproj.SuggestedBindingRedirects.cache
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\obj\Debug\change_background_color_and_fontcolor.csproj.CoreCompileInputs.cache
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\obj\Debug\change_background_color_and_fontcolor.exe
+E:\C#\Change Background and font color in c#\change_background_color_and_fontcolor\change_background_color_and_fontcolor\obj\Debug\change_background_color_and_fontcolor.pdb

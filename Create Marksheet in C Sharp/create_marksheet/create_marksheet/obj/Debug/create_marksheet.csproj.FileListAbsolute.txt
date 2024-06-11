@@ -1,0 +1,8 @@
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\bin\Debug\create_marksheet.exe.config
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\bin\Debug\create_marksheet.exe
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\bin\Debug\create_marksheet.pdb
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\obj\Debug\create_marksheet.csproj.AssemblyReference.cache
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\obj\Debug\create_marksheet.csproj.SuggestedBindingRedirects.cache
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\obj\Debug\create_marksheet.csproj.CoreCompileInputs.cache
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\obj\Debug\create_marksheet.exe
+E:\C#\Create Marksheet in C Sharp\create_marksheet\create_marksheet\obj\Debug\create_marksheet.pdb

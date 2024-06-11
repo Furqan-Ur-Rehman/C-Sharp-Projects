@@ -1,0 +1,22 @@
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\bin\Debug\Calculator 2 in C Sharp.exe.config
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\bin\Debug\Calculator 2 in C Sharp.exe
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\bin\Debug\Calculator 2 in C Sharp.pdb
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator_2_in_C_Sharp.Form1.resources
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator_2_in_C_Sharp.Properties.Resources.resources
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.GenerateResource.cache
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.exe
+C:\Users\furqan\Desktop\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.pdb
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\bin\Debug\Calculator 2 in C Sharp.exe.config
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\bin\Debug\Calculator 2 in C Sharp.exe
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\bin\Debug\Calculator 2 in C Sharp.pdb
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.AssemblyReference.cache
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.SuggestedBindingRedirects.cache
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator_2_in_C_Sharp.Form1.resources
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator_2_in_C_Sharp.Properties.Resources.resources
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.GenerateResource.cache
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.csproj.CoreCompileInputs.cache
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.exe
+E:\C#\Windows Forms in C#\Calculator 2 in C Sharp\Calculator 2 in C Sharp\obj\Debug\Calculator 2 in C Sharp.pdb

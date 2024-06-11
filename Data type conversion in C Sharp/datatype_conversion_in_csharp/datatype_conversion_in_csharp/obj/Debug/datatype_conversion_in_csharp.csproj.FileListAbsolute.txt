@@ -1,0 +1,8 @@
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\bin\Debug\datatype_conversion_in_csharp.exe.config
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\bin\Debug\datatype_conversion_in_csharp.exe
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\bin\Debug\datatype_conversion_in_csharp.pdb
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\obj\Debug\datatype_conversion_in_csharp.csproj.AssemblyReference.cache
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\obj\Debug\datatype_conversion_in_csharp.csproj.SuggestedBindingRedirects.cache
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\obj\Debug\datatype_conversion_in_csharp.csproj.CoreCompileInputs.cache
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\obj\Debug\datatype_conversion_in_csharp.exe
+E:\C#\Data type conversion in C Sharp\datatype_conversion_in_csharp\datatype_conversion_in_csharp\obj\Debug\datatype_conversion_in_csharp.pdb

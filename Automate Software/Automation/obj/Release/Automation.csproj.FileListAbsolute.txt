@@ -1,0 +1,14 @@
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\selenium-manager\linux\selenium-manager
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\selenium-manager\macos\selenium-manager
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\selenium-manager\windows\selenium-manager.exe
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\Automation.exe.config
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\Automation.exe
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\Automation.pdb
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\WebDriver.dll
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Release\WebDriver.Support.dll
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Release\Automation.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Release\Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Release\Automation.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Release\Automation.csproj.CopyComplete
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Release\Automation.exe
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Release\Automation.pdb

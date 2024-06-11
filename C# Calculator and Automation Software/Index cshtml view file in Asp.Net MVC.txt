@@ -1,0 +1,52 @@
+
+@{
+    ViewBag.Title = "ASP";
+}
+
+<h2>Html Helper Methods</h2>
+<br />
+<br />
+@Html.TextBox("FirstName")
+<br />
+@Html.TextBox("FirstName", "Furqan")
+<br />
+<br />
+@Html.TextBox("FirstName", "Anmol", new { style = "background:black; color:white; font-weight:bold;", title = "Please Enter Name" })
+<br />
+<br />
+@Html.TextBox("lastName", "Anum", new { @class = "TextBoxStyle", @readonly = true })
+<br />
+<br />
+@Html.TextBox("lastName", "Anum", new { @class = "form-control" })
+<br />
+<br />
+
+@{
+    Html.BeginForm("Index", "Home");
+}
+
+
+@Html.Label("UserName") &nbsp; @Html.TextBox("FirstName")
+<br />
+<br />
+@Html.Label("Password") &nbsp; @Html.Password("pass")
+<br />
+<br />
+@Html.Label("Male") &nbsp; @Html.RadioButton("Gender", "Male", true)
+@Html.Label("Female") &nbsp; @Html.RadioButton("Gender", "Female")
+<br />
+<br />
+@*@Html.Label("Country") &nbsp; @Html.DropDownList("CountryList", new SelectList(new[] {"Pakistan", "India", "Srilanka", "Bangladesh"}), "Select")*@
+
+@Html.Label("Country") &nbsp; @Html.DropDownList("CountryList", new SelectList(new[] { "Pakistan", "india", "Bangladesh" }), "Select")
+<br />
+<br />
+@Html.Label("Comments") &nbsp; @Html.TextArea("commentarea", "", 5, 50, null)
+<br />
+<br />
+@Html.CheckBox("acceptterms", true) @Html.Label("I Accept Terms & Conditions")
+@Html.Hidden("id") 
+@{
+
+    Html.EndForm();
+}

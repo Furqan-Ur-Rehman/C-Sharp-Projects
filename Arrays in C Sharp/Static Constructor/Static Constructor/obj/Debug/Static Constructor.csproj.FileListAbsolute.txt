@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\bin\Debug\Static Constructor.exe.config
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\bin\Debug\Static Constructor.exe
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\bin\Debug\Static Constructor.pdb
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\obj\Debug\Static Constructor.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\obj\Debug\Static Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\obj\Debug\Static Constructor.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\obj\Debug\Static Constructor.exe
+C:\Users\furqan\Desktop\Arrays in C Sharp\Static Constructor\Static Constructor\obj\Debug\Static Constructor.pdb

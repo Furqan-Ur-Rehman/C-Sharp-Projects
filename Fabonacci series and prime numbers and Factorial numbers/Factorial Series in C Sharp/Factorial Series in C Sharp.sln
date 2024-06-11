@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial Series in C Sharp", "Factorial Series in C Sharp\Factorial Series in C Sharp.csproj", "{706D4CF8-E972-4828-8FCA-8DA6C945BFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706D4CF8-E972-4828-8FCA-8DA6C945BFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706D4CF8-E972-4828-8FCA-8DA6C945BFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706D4CF8-E972-4828-8FCA-8DA6C945BFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706D4CF8-E972-4828-8FCA-8DA6C945BFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB2656F-9188-44AD-B014-70CBE4A108B0}
+	EndGlobalSection
+EndGlobal

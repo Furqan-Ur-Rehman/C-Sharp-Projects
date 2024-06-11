@@ -1,0 +1,2 @@
+C:\Users\asp\Desktop\New Topic Properties and Indexers\Book Example pg 292\Book Example pg 292\obj\Debug\Book Example pg 292.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\New Topic Properties and Indexers\Book Example pg 292\Book Example pg 292\obj\Debug\Book Example pg 292.csproj.CoreCompileInputs.cache

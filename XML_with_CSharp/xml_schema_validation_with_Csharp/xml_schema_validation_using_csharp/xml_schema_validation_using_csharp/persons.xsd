@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="persons"
+    elementFormDefault="qualified"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!-- With Attributes -->
+	<xs:attributeGroup name="person_attributes">
+		<xs:attribute name="firstname" type="xs:string" />
+		<xs:attribute name="lastname" type="xs:string" />
+	</xs:attributeGroup>
+
+	<xs:element name="persons">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="person" maxOccurs="unbounded">
+					<xs:complexType mixed="true">
+						<xs:sequence>
+							<xs:element name="email" type="xs:string" />
+						</xs:sequence>
+						<xs:attributeGroup ref="person_attributes" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

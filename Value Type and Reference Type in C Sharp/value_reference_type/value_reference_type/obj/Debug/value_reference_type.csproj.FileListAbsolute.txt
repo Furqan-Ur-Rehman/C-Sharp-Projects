@@ -1,0 +1,8 @@
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\bin\Debug\value_reference_type.exe.config
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\bin\Debug\value_reference_type.exe
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\bin\Debug\value_reference_type.pdb
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\obj\Debug\value_reference_type.csproj.AssemblyReference.cache
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\obj\Debug\value_reference_type.csproj.SuggestedBindingRedirects.cache
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\obj\Debug\value_reference_type.csproj.CoreCompileInputs.cache
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\obj\Debug\value_reference_type.exe
+E:\C#\Value Type and Reference Type in C Sharp\value_reference_type\value_reference_type\obj\Debug\value_reference_type.pdb

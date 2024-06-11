@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\bin\Debug\Even and Odd number print by user input.exe.config
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\bin\Debug\Even and Odd number print by user input.exe
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\bin\Debug\Even and Odd number print by user input.pdb
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\obj\Debug\Even and Odd number print by user input.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\obj\Debug\Even and Odd number print by user input.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\obj\Debug\Even and Odd number print by user input.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\obj\Debug\Even and Odd number print by user input.exe
+C:\Users\furqan\Desktop\Even and Odd number print\Even and Odd number print by user input\Even and Odd number print by user input\obj\Debug\Even and Odd number print by user input.pdb

@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\bin\Debug\Factorial Series in C Sharp.exe.config
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\bin\Debug\Factorial Series in C Sharp.exe
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\bin\Debug\Factorial Series in C Sharp.pdb
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\obj\Debug\Factorial Series in C Sharp.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\obj\Debug\Factorial Series in C Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\obj\Debug\Factorial Series in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\obj\Debug\Factorial Series in C Sharp.exe
+C:\Users\furqan\Desktop\Fabonacci series and prime numbers\Factorial Series in C Sharp\Factorial Series in C Sharp\obj\Debug\Factorial Series in C Sharp.pdb

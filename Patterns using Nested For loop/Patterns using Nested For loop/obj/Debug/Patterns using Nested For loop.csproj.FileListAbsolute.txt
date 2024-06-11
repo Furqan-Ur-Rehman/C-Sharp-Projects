@@ -1,0 +1,8 @@
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\bin\Debug\Patterns using Nested For loop.exe.config
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\bin\Debug\Patterns using Nested For loop.exe
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\bin\Debug\Patterns using Nested For loop.pdb
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\obj\Debug\Patterns using Nested For loop.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\obj\Debug\Patterns using Nested For loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\obj\Debug\Patterns using Nested For loop.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\obj\Debug\Patterns using Nested For loop.exe
+C:\Users\furqan\source\repos\Patterns using Nested For loop\Patterns using Nested For loop\obj\Debug\Patterns using Nested For loop.pdb

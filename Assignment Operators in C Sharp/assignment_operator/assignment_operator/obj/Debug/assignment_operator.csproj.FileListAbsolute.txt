@@ -1,0 +1,8 @@
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\bin\Debug\assignment_operator.exe.config
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\bin\Debug\assignment_operator.exe
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\bin\Debug\assignment_operator.pdb
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\obj\Debug\assignment_operator.csproj.AssemblyReference.cache
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\obj\Debug\assignment_operator.csproj.SuggestedBindingRedirects.cache
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\obj\Debug\assignment_operator.csproj.CoreCompileInputs.cache
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\obj\Debug\assignment_operator.exe
+E:\C#\Assignment Operators in C Sharp\assignment_operator\assignment_operator\obj\Debug\assignment_operator.pdb

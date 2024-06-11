@@ -1,0 +1,8 @@
+C:\Users\furqan\source\repos\for loop practice\for loop practice\bin\Debug\for loop practice.exe.config
+C:\Users\furqan\source\repos\for loop practice\for loop practice\bin\Debug\for loop practice.exe
+C:\Users\furqan\source\repos\for loop practice\for loop practice\bin\Debug\for loop practice.pdb
+C:\Users\furqan\source\repos\for loop practice\for loop practice\obj\Debug\for loop practice.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\for loop practice\for loop practice\obj\Debug\for loop practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\for loop practice\for loop practice\obj\Debug\for loop practice.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\for loop practice\for loop practice\obj\Debug\for loop practice.exe
+C:\Users\furqan\source\repos\for loop practice\for loop practice\obj\Debug\for loop practice.pdb

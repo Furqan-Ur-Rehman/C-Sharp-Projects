@@ -1,0 +1,16 @@
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\bin\Debug\Calculator using Switch Case in C Sharp.exe.config
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\bin\Debug\Calculator using Switch Case in C Sharp.exe
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\bin\Debug\Calculator using Switch Case in C Sharp.pdb
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.exe
+C:\Users\furqan\Desktop\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.pdb
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\bin\Debug\Calculator using Switch Case in C Sharp.exe.config
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\bin\Debug\Calculator using Switch Case in C Sharp.exe
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\bin\Debug\Calculator using Switch Case in C Sharp.pdb
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.csproj.AssemblyReference.cache
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.csproj.SuggestedBindingRedirects.cache
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.csproj.CoreCompileInputs.cache
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.exe
+E:\C#\Calculator in C #\Calculator using Switch Case in C Sharp\Calculator using Switch Case in C Sharp\obj\Debug\Calculator using Switch Case in C Sharp.pdb

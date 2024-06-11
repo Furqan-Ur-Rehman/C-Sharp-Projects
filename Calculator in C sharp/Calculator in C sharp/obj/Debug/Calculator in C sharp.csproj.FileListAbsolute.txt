@@ -1,0 +1,8 @@
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\bin\Debug\Calculator in C sharp.exe.config
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\bin\Debug\Calculator in C sharp.exe
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\bin\Debug\Calculator in C sharp.pdb
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\obj\Debug\Calculator in C sharp.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\obj\Debug\Calculator in C sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\obj\Debug\Calculator in C sharp.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\obj\Debug\Calculator in C sharp.exe
+C:\Users\furqan\source\repos\Calculator in C sharp\Calculator in C sharp\obj\Debug\Calculator in C sharp.pdb

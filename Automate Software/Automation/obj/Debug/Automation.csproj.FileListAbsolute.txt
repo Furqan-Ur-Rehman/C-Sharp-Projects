@@ -1,0 +1,56 @@
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\selenium-manager\linux\selenium-manager
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\selenium-manager\macos\selenium-manager
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\selenium-manager\windows\selenium-manager.exe
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\Automation.exe.config
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\Automation.exe
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\Automation.pdb
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\WebDriver.dll
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\bin\Debug\WebDriver.Support.dll
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\obj\Debug\Automation.csproj.AssemblyReference.cache
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\obj\Debug\Automation.csproj.SuggestedBindingRedirects.cache
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\obj\Debug\Automation.csproj.CopyComplete
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\obj\Debug\Automation.exe
+E:\Asp.Net & Asp.Net MVC\Automation in C#\Automation\Automation\obj\Debug\Automation.pdb
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\Automation.exe.config
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\Automation.exe
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\Automation.pdb
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\WebDriver.dll
+C:\Users\furqan\Desktop\Automation\Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\furqan\Desktop\Automation\Automation\obj\Debug\Automation.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Automation\Automation\obj\Debug\Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Automation\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Automation\Automation\obj\Debug\Automation.csproj.CopyComplete
+C:\Users\furqan\Desktop\Automation\Automation\obj\Debug\Automation.exe
+C:\Users\furqan\Desktop\Automation\Automation\obj\Debug\Automation.pdb
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\Automation.exe.config
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\Automation.exe
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\Automation.pdb
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\WebDriver.dll
+C:\Users\furqan\Desktop\Automate Software\Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\furqan\Desktop\Automate Software\Automation\obj\Debug\Automation.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Automate Software\Automation\obj\Debug\Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Automate Software\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Automate Software\Automation\obj\Debug\Automation.csproj.CopyComplete
+C:\Users\furqan\Desktop\Automate Software\Automation\obj\Debug\Automation.exe
+C:\Users\furqan\Desktop\Automate Software\Automation\obj\Debug\Automation.pdb
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\Automation.exe.config
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\Automation.exe
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\Automation.pdb
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\WebDriver.dll
+C:\Users\furqan\source\repos\Automate Software\Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Debug\Automation.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Debug\Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Debug\Automation.csproj.CopyComplete
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Debug\Automation.exe
+C:\Users\furqan\source\repos\Automate Software\Automation\obj\Debug\Automation.pdb

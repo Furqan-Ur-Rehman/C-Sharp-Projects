@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\bin\Debug\Base Key word with New Key Word.exe.config
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\bin\Debug\Base Key word with New Key Word.exe
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\bin\Debug\Base Key word with New Key Word.pdb
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\obj\Debug\Base Key word with New Key Word.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\obj\Debug\Base Key word with New Key Word.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\obj\Debug\Base Key word with New Key Word.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\obj\Debug\Base Key word with New Key Word.exe
+C:\Users\furqan\Desktop\Inheritance in C#\Base Key word with New Key Word\Base Key word with New Key Word\obj\Debug\Base Key word with New Key Word.pdb

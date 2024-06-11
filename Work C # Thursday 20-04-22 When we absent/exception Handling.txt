@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exception_Handling
+{
+    class Program
+    {
+        
+        static void Main(string[] args)
+        {
+            int NumOne;
+            int NumTwo;
+            int res;
+
+            Console.WriteLine("Enter Num1: ");
+            NumOne = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Num2: ");
+            NumTwo = Convert.ToInt32(Console.ReadLine());
+
+            try
+            {
+                res = NumOne / NumTwo;
+                Console.WriteLine("Result: "+res);
+
+            }
+            catch(DivideByZeroException ex)
+            {
+                Console.WriteLine("Can not divided by zero");
+                Console.WriteLine(ex.Message);
+            }
+            Console.WriteLine("statment 1");
+            Console.WriteLine("statment 2");
+            Console.WriteLine("statment 3");
+
+            Console.Read();
+
+        }
+    }
+}

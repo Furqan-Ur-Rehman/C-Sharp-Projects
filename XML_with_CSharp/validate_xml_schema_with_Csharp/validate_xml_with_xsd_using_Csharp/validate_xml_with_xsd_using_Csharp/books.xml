@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<books>
+	<book id="bk001">
+		<author>Writer</author>
+		<title>The First Book</title>
+		<genre>Fiction</genre>
+		<price>200.45</price>
+		<pub_date>2024-09-04</pub_date>
+		<review>An Amazing Story</review>
+	</book>
+	<book id="bk002">
+		<author>Poet</author>
+		<title>The First Book of Poem</title>
+		<genre>Poem</genre>
+		<price>200.45</price>
+		<pub_date>2024-09-04</pub_date>
+		<review>An Amazing Poem</review>
+	</book>
+</books>

@@ -1,0 +1,8 @@
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\bin\Debug\run_exefiles_with_Csharp.exe.config
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\bin\Debug\run_exefiles_with_Csharp.exe
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\bin\Debug\run_exefiles_with_Csharp.pdb
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\obj\Debug\run_exefiles_with_Csharp.csproj.AssemblyReference.cache
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\obj\Debug\run_exefiles_with_Csharp.csproj.SuggestedBindingRedirects.cache
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\obj\Debug\run_exefiles_with_Csharp.csproj.CoreCompileInputs.cache
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\obj\Debug\run_exefiles_with_Csharp.exe
+E:\C#\Run_Exe_files_in_C#\run_exefiles_with_Csharp\run_exefiles_with_Csharp\obj\Debug\run_exefiles_with_Csharp.pdb

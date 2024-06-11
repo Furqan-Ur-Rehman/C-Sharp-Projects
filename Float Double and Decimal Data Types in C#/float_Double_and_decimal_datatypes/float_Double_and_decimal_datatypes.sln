@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "float_Double_and_decimal_datatypes", "float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes.csproj", "{FD2708CC-7C35-4742-A12D-E79A1ABB75D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2708CC-7C35-4742-A12D-E79A1ABB75D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2708CC-7C35-4742-A12D-E79A1ABB75D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2708CC-7C35-4742-A12D-E79A1ABB75D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2708CC-7C35-4742-A12D-E79A1ABB75D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD40287-9AED-4633-8CD1-E5F9AD396724}
+	EndGlobalSection
+EndGlobal

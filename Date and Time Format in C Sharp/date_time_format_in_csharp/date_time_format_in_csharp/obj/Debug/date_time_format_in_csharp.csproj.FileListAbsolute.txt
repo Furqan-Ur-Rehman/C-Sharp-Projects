@@ -1,0 +1,8 @@
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\bin\Debug\date_time_format_in_csharp.exe.config
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\bin\Debug\date_time_format_in_csharp.exe
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\bin\Debug\date_time_format_in_csharp.pdb
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\obj\Debug\date_time_format_in_csharp.csproj.AssemblyReference.cache
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\obj\Debug\date_time_format_in_csharp.csproj.SuggestedBindingRedirects.cache
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\obj\Debug\date_time_format_in_csharp.csproj.CoreCompileInputs.cache
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\obj\Debug\date_time_format_in_csharp.exe
+E:\C#\Date and Time Format in C Sharp\date_time_format_in_csharp\date_time_format_in_csharp\obj\Debug\date_time_format_in_csharp.pdb

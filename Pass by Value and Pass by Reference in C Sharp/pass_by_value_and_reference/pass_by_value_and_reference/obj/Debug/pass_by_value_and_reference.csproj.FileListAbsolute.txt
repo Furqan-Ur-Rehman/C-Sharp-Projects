@@ -1,0 +1,8 @@
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\bin\Debug\pass_by_value_and_reference.exe.config
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\bin\Debug\pass_by_value_and_reference.exe
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\bin\Debug\pass_by_value_and_reference.pdb
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\obj\Debug\pass_by_value_and_reference.csproj.AssemblyReference.cache
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\obj\Debug\pass_by_value_and_reference.csproj.SuggestedBindingRedirects.cache
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\obj\Debug\pass_by_value_and_reference.csproj.CoreCompileInputs.cache
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\obj\Debug\pass_by_value_and_reference.exe
+E:\C#\Pass by Value and Pass by Reference in C Sharp\pass_by_value_and_reference\pass_by_value_and_reference\obj\Debug\pass_by_value_and_reference.pdb

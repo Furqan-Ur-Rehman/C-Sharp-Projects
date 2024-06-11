@@ -1,0 +1,13 @@
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\bin\Debug\QR_code_in_Csharp.exe.config
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\bin\Debug\QR_code_in_Csharp.exe
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\bin\Debug\QR_code_in_Csharp.pdb
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\bin\Debug\zxing.dll
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\bin\Debug\zxing.presentation.dll
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\bin\Debug\zxing.xml
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\bin\Debug\zxing.presentation.xml
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\obj\Debug\QR_code_in_Csharp.csproj.AssemblyReference.cache
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\obj\Debug\QR_code_in_Csharp.csproj.SuggestedBindingRedirects.cache
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\obj\Debug\QR_code_in_Csharp.csproj.CoreCompileInputs.cache
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\obj\Debug\QR_code_in_Csharp.csproj.CopyComplete
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\obj\Debug\QR_code_in_Csharp.exe
+E:\C#\QR Code in C sharp\QR_code_in_Csharp\QR_code_in_Csharp\obj\Debug\QR_code_in_Csharp.pdb

@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\bin\Debug\Read Only Property Book Example pg 289.exe.config
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\bin\Debug\Read Only Property Book Example pg 289.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\bin\Debug\Read Only Property Book Example pg 289.pdb
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\obj\Debug\Read Only Property Book Example pg 289.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\obj\Debug\Read Only Property Book Example pg 289.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\obj\Debug\Read Only Property Book Example pg 289.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\obj\Debug\Read Only Property Book Example pg 289.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read Only Property Book Example pg 289\Read Only Property Book Example pg 289\obj\Debug\Read Only Property Book Example pg 289.pdb

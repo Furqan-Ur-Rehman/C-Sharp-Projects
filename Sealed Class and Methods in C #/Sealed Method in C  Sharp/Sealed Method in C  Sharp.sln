@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sealed Method in C  Sharp", "Sealed Method in C  Sharp\Sealed Method in C  Sharp.csproj", "{9FE72E41-13AA-4A0F-A453-8A7F2D32B1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE72E41-13AA-4A0F-A453-8A7F2D32B1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE72E41-13AA-4A0F-A453-8A7F2D32B1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE72E41-13AA-4A0F-A453-8A7F2D32B1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE72E41-13AA-4A0F-A453-8A7F2D32B1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EDB5067-2A49-41DF-A48B-34D2963F20EC}
+	EndGlobalSection
+EndGlobal

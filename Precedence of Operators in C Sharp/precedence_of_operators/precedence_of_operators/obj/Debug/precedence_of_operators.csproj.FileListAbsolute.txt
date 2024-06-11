@@ -1,0 +1,8 @@
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\bin\Debug\precedence_of_operators.exe.config
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\bin\Debug\precedence_of_operators.exe
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\bin\Debug\precedence_of_operators.pdb
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\obj\Debug\precedence_of_operators.csproj.AssemblyReference.cache
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\obj\Debug\precedence_of_operators.csproj.SuggestedBindingRedirects.cache
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\obj\Debug\precedence_of_operators.csproj.CoreCompileInputs.cache
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\obj\Debug\precedence_of_operators.exe
+E:\C#\Precedence of Operators in C Sharp\precedence_of_operators\precedence_of_operators\obj\Debug\precedence_of_operators.pdb

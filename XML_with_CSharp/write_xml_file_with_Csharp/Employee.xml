@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Creating an XML file using C#-->
+<Employees>
+  <Employee>
+    <ID>1</ID>
+    <Name>Furqan</Name>
+    <Dept>IT</Dept>
+  </Employee>
+  <Employee>
+    <ID>2</ID>
+    <Name>Wahaj</Name>
+    <Dept>IT</Dept>
+  </Employee>
+  <Employee>
+    <ID>3</ID>
+    <Name>Hassan Mujataba</Name>
+    <Dept>IT</Dept>
+  </Employee>
+</Employees>

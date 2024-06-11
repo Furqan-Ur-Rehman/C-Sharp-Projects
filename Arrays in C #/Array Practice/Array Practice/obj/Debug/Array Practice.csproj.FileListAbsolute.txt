@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\bin\Debug\Array Practice.exe.config
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\bin\Debug\Array Practice.exe
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\bin\Debug\Array Practice.pdb
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\obj\Debug\Array Practice.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\obj\Debug\Array Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\obj\Debug\Array Practice.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\obj\Debug\Array Practice.exe
+C:\Users\furqan\Desktop\Arrays in C #\Array Practice\Array Practice\obj\Debug\Array Practice.pdb

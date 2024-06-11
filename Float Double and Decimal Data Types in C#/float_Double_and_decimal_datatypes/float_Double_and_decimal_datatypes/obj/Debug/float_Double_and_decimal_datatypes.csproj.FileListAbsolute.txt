@@ -1,0 +1,8 @@
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\bin\Debug\float_Double_and_decimal_datatypes.exe.config
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\bin\Debug\float_Double_and_decimal_datatypes.exe
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\bin\Debug\float_Double_and_decimal_datatypes.pdb
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\obj\Debug\float_Double_and_decimal_datatypes.csproj.AssemblyReference.cache
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\obj\Debug\float_Double_and_decimal_datatypes.csproj.SuggestedBindingRedirects.cache
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\obj\Debug\float_Double_and_decimal_datatypes.csproj.CoreCompileInputs.cache
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\obj\Debug\float_Double_and_decimal_datatypes.exe
+E:\C#\Float Double and Decimal Data Types in C#\float_Double_and_decimal_datatypes\float_Double_and_decimal_datatypes\obj\Debug\float_Double_and_decimal_datatypes.pdb

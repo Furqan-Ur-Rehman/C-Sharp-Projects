@@ -1,0 +1,8 @@
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\bin\Debug\Float and Double Data type.exe.config
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\bin\Debug\Float and Double Data type.exe
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\bin\Debug\Float and Double Data type.pdb
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\obj\Debug\Float and Double Data type.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\obj\Debug\Float and Double Data type.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\obj\Debug\Float and Double Data type.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\obj\Debug\Float and Double Data type.exe
+C:\Users\furqan\source\repos\Float and Double Data type\Float and Double Data type\obj\Debug\Float and Double Data type.pdb

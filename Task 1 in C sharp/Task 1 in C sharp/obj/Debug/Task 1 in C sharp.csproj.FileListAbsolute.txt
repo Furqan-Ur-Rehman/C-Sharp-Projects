@@ -1,0 +1,8 @@
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\bin\Debug\Task 1 in C sharp.exe.config
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\bin\Debug\Task 1 in C sharp.exe
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\bin\Debug\Task 1 in C sharp.pdb
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\obj\Debug\Task 1 in C sharp.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\obj\Debug\Task 1 in C sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\obj\Debug\Task 1 in C sharp.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\obj\Debug\Task 1 in C sharp.exe
+C:\Users\furqan\source\repos\Task 1 in C sharp\Task 1 in C sharp\obj\Debug\Task 1 in C sharp.pdb

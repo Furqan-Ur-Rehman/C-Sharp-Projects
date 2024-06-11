@@ -1,0 +1,8 @@
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\bin\Debug\string_and_character_Data_Types.exe.config
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\bin\Debug\string_and_character_Data_Types.exe
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\bin\Debug\string_and_character_Data_Types.pdb
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\obj\Debug\string_and_character_Data_Types.csproj.AssemblyReference.cache
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\obj\Debug\string_and_character_Data_Types.csproj.SuggestedBindingRedirects.cache
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\obj\Debug\string_and_character_Data_Types.csproj.CoreCompileInputs.cache
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\obj\Debug\string_and_character_Data_Types.exe
+E:\C#\String and Character Data Types in C#\string_and_character_Data_Types\string_and_character_Data_Types\obj\Debug\string_and_character_Data_Types.pdb

@@ -1,0 +1,8 @@
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\bin\Debug\ternary_operators.exe.config
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\bin\Debug\ternary_operators.exe
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\bin\Debug\ternary_operators.pdb
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\obj\Debug\ternary_operators.csproj.AssemblyReference.cache
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\obj\Debug\ternary_operators.csproj.SuggestedBindingRedirects.cache
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\obj\Debug\ternary_operators.csproj.CoreCompileInputs.cache
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\obj\Debug\ternary_operators.exe
+E:\C#\Ternary or Conditional Operators in C Sharp\ternary_operators\ternary_operators\obj\Debug\ternary_operators.pdb

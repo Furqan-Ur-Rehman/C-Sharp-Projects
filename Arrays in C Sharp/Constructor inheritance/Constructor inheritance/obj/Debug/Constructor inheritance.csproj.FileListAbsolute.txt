@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\bin\Debug\Constructor inheritance.exe.config
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\bin\Debug\Constructor inheritance.exe
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\bin\Debug\Constructor inheritance.pdb
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\obj\Debug\Constructor inheritance.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\obj\Debug\Constructor inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\obj\Debug\Constructor inheritance.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\obj\Debug\Constructor inheritance.exe
+C:\Users\furqan\Desktop\Arrays in C Sharp\Constructor inheritance\Constructor inheritance\obj\Debug\Constructor inheritance.pdb

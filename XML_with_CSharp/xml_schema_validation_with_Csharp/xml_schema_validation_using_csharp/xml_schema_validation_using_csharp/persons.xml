@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+
+<!-- example 4  containing another element and text(complex type element)-->
+<persons>
+    <person firstname="Furqan" lastname="Rehman">
+        Info:
+        <email>furqan123@gmail.com</email>
+    </person>
+
+    <person firstname="Sabir" lastname="Ansari">
+        Info:
+        <email>sabir786@gmail.com</email>
+    </person>
+</persons>

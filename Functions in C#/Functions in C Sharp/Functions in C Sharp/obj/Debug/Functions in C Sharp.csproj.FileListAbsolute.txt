@@ -1,0 +1,7 @@
+C:\Users\asp\Desktop\Functions in C#\Functions in C Sharp\Functions in C Sharp\bin\Debug\Functions in C Sharp.exe.config
+C:\Users\asp\Desktop\Functions in C#\Functions in C Sharp\Functions in C Sharp\bin\Debug\Functions in C Sharp.exe
+C:\Users\asp\Desktop\Functions in C#\Functions in C Sharp\Functions in C Sharp\bin\Debug\Functions in C Sharp.pdb
+C:\Users\asp\Desktop\Functions in C#\Functions in C Sharp\Functions in C Sharp\obj\Debug\Functions in C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\Functions in C#\Functions in C Sharp\Functions in C Sharp\obj\Debug\Functions in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\Functions in C#\Functions in C Sharp\Functions in C Sharp\obj\Debug\Functions in C Sharp.exe
+C:\Users\asp\Desktop\Functions in C#\Functions in C Sharp\Functions in C Sharp\obj\Debug\Functions in C Sharp.pdb

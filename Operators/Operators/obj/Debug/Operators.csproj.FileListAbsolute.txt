@@ -1,0 +1,8 @@
+C:\Users\furqan\source\repos\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\furqan\source\repos\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\furqan\source\repos\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\furqan\source\repos\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\furqan\source\repos\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\source\repos\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\furqan\source\repos\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\furqan\source\repos\Operators\Operators\obj\Debug\Operators.pdb

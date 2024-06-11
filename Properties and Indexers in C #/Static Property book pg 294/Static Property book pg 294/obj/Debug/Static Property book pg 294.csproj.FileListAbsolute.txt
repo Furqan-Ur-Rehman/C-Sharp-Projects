@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\bin\Debug\Static Property book pg 294.exe.config
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\bin\Debug\Static Property book pg 294.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\bin\Debug\Static Property book pg 294.pdb
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\obj\Debug\Static Property book pg 294.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\obj\Debug\Static Property book pg 294.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\obj\Debug\Static Property book pg 294.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\obj\Debug\Static Property book pg 294.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Static Property book pg 294\Static Property book pg 294\obj\Debug\Static Property book pg 294.pdb

@@ -1,0 +1,8 @@
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\bin\Debug\Read and Write Property book pg 292.exe.config
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\bin\Debug\Read and Write Property book pg 292.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\bin\Debug\Read and Write Property book pg 292.pdb
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\obj\Debug\Read and Write Property book pg 292.csproj.AssemblyReference.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\obj\Debug\Read and Write Property book pg 292.csproj.SuggestedBindingRedirects.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\obj\Debug\Read and Write Property book pg 292.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\obj\Debug\Read and Write Property book pg 292.exe
+C:\Users\furqan\Desktop\Properties and Indexers in C #\Read and Write Property book pg 292\Read and Write Property book pg 292\obj\Debug\Read and Write Property book pg 292.pdb
